@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+outputs/
+# Never commit real organisational data. Only the synthetic sample files are tracked.
+data/*.csv
+!data/sample_posts.csv
+!data/sample_planned_posts.csv
