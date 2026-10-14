@@ -203,4 +203,4 @@ If you use this code, please cite the accompanying paper (add the full citation 
 
 ## Licence
 
-Choose a licence before publishing (for example MIT for permissive reuse). Add it as a `LICENSE` file; GitHub offers templates when you create the repository.
+Released under the MIT Licence. See [`LICENSE`](LICENSE).
