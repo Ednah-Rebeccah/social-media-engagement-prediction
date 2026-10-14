@@ -28,7 +28,7 @@ The code also guards against a third, hidden crack, **data leakage**. That is wh
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/social-media-engagement-prediction.git
+git clone https://github.com/Ednah-Rebeccah/social-media-engagement-prediction.git
 cd social-media-engagement-prediction
 pip install -r requirements.txt
 
