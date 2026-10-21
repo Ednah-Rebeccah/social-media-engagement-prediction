@@ -2,7 +2,7 @@
 
 Companion code for the paper **"Predicting Social Media Engagement Through Machine Learning: Evidence, Methods and Implications for Communications Practice"** by Ednah Rebeccah.
 
-📄 **[Read the full paper (PDF)](paper/Predicting-Social-Media-Engagement.pdf)**
+📄 **Read the full paper:** [on LinkedIn](https://www.linkedin.com/pulse/predicting-social-media-engagement-through-machine-ednah-rebeccah-g1cxf) · [PDF](paper/Predicting-Social-Media-Engagement.pdf)
 
 This repository turns the paper's research design into a working, tested pipeline that a communications team can run on its own post history. It answers one narrow question honestly:
 
@@ -204,7 +204,7 @@ The tests check the safeguards the paper insists on:
 
 If you use this code, please cite the accompanying paper:
 
-> Rebeccah, E. (2026). *Predicting Social Media Engagement Through Machine Learning: Evidence, Methods and Implications for Communications Practice.* [Read the paper (PDF)](paper/Predicting-Social-Media-Engagement.pdf).
+> Rebeccah, E. (2026). *Predicting Social Media Engagement Through Machine Learning: Evidence, Methods and Implications for Communications Practice.* Published on LinkedIn: https://www.linkedin.com/pulse/predicting-social-media-engagement-through-machine-ednah-rebeccah-g1cxf ([PDF copy](paper/Predicting-Social-Media-Engagement.pdf)).
 
 ## Licence
 
