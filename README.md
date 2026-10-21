@@ -1,6 +1,8 @@
 # Predicting Social Media Engagement Before You Post
 
-Companion code for the paper **"Predicting Social Media Engagement Through Machine Learning: Evidence, Methods and Implications for Communications Practice."**
+Companion code for the paper **"Predicting Social Media Engagement Through Machine Learning: Evidence, Methods and Implications for Communications Practice"** by Ednah Rebeccah.
+
+📄 **[Read the full paper (PDF)](paper/Predicting-Social-Media-Engagement.pdf)**
 
 This repository turns the paper's research design into a working, tested pipeline that a communications team can run on its own post history. It answers one narrow question honestly:
 
@@ -178,6 +180,7 @@ The tests check the safeguards the paper insists on:
 ```
 ├── README.md
 ├── MODEL_CARD.md                  template to fill in for your team
+├── paper/                         the full paper (PDF)
 ├── requirements.txt
 ├── data/DATA_DICTIONARY.md        expected columns
 ├── src/engagement_model/
@@ -199,7 +202,9 @@ The tests check the safeguards the paper insists on:
 
 ## Citation
 
-If you use this code, please cite the accompanying paper (add the full citation and link once published).
+If you use this code, please cite the accompanying paper:
+
+> Rebeccah, E. (2026). *Predicting Social Media Engagement Through Machine Learning: Evidence, Methods and Implications for Communications Practice.* [Read the paper (PDF)](paper/Predicting-Social-Media-Engagement.pdf).
 
 ## Licence
 
